@@ -2,6 +2,11 @@
 
 Note! After finishing this assessment in my ML course, I undersood that I should not have augmented the whole dataset, but rather the abnormal cases.
 
+## Model used
+
+<img src="https://github.com/lewiuberg/MURA/blob/main/Diagram/model.png" width="680">
+
+
 ## Imange classification with CNN's
 
 Information: [Stanford ML Group](https://stanfordmlgroup.github.io/competitions/mura/)
