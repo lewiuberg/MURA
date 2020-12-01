@@ -1,3 +1,5 @@
+![](https://visitor-badge.glitch.me/badge?page_id=lewiuberg.MURA)
+
 # MURA
 
 Note! After finishing this assessment in my ML course, I undersood that I should not have augmented the whole dataset, but rather the abnormal cases.
